@@ -44,4 +44,5 @@ hvernig gagnagrindin lítur út, skilið einnig forritskóða fyrir gagnagrindin
 skjali.
 Einkunn verður 60% fyrir kóðann, og 40% fyrir prufuforritið. Athugið að dregið verður frá fyrir forrit sem ráða ekki við inntakið.
 
-Einkunn: 9.5
+##Einkunn
+9.5
