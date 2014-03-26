@@ -20,20 +20,20 @@ Fyrir allar ? fyrirspurnir þarf að skrifa öll bilin sem uppfylla þessi skily
 Bilin verða að vera röðuð eftir vinstra endapunkti fyrst og svo hægri endapunkti. Úttakið verður
 að vera á forminu "[a, b]", t.d "[0, 10]" og bilin verða að vera aðskilin með bili á milli
 sín. Ef ekkert bil uppfyllir þessi skilyrði á að prenta út "[]".
-Dæmi: Ef inntakið er
-+ 1 2
-?o 2 3
-+ 2 3
-+ 0 4
-?i 2 3
-- 2 3
-?p 2
-?p 5
+Dæmi: Ef inntakið er <br>
+\+ 1 2 <br>
+?o 2 3 <br>
+\+ 2 3 <br>
+\+ 0 4 <br>
+?i 2 3 <br>
+\- 2 3 <br>
+?p 2 <br>
+?p 5 <br>
 
-á úttakið að vera
-[1, 2]
-[0, 4] [2, 3]
-[0, 4] [1, 2]
+á úttakið að vera <br>
+[1, 2]<br>
+[0, 4] [2, 3] <br>
+[0, 4] [1, 2] <br>
 
 
 ## Skil
