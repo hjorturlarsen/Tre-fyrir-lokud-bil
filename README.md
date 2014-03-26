@@ -1,6 +1,6 @@
 Tre-fyrir-lokud-bil
 ===================
-Tölvunarfræði, 2. ár, Tölvugrafík, Háskóli Íslands 2013
+Tölvunarfræði, 2. ár, Greining Reiknirita, Háskóli Íslands 2013
 
 Í þessu verkefni á að útfæra tré fyrir lokuð bil. Leyﬁleg forritunarmál eru C, C++, Java og
 Python. Skriﬁð fastayrðingu gagna fyrir klasann og notkun/fyrir/eftir lýsingu fyrir öll föll og
